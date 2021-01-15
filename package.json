@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-yimoko",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "The base yimoko template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ickeep/cra-template-yimoko.git",
+    "directory": ""
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/ickeep/cra-template-yimoko/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
